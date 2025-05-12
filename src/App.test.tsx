@@ -10,7 +10,10 @@ const mockBreweries = [
     id: '1',
     name: 'Parrish Brewing Company',
     country: 'USA',
-    brewery_type: 'micro'
+    state: 'Utah',
+    postal_code: '84109',
+    brewery_type: 'micro',
+    website_url: 'https://ryanmparrish.com',
   }
 ];
 
